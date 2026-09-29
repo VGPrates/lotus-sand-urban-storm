@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RPG Fallen Gods — O grimório da sua mesa de RPG",
+      "hasCanvas": false,
+      "bodyTextLen": 206,
+      "bodyTextHash": "aa8ee01e68d7a0aa3544874a69ec1e0d0c1e739b2ad3e999340da91b390f4cf3",
+      "bodyTextPrefix": "FANTASIA MEDIEVAL RPG Fallen Gods O grimório da sua mesa de RPG ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RPG Fallen Gods — O grimório da sua mesa de RPG",
+      "hasCanvas": false,
+      "bodyTextLen": 206,
+      "bodyTextHash": "aa8ee01e68d7a0aa3544874a69ec1e0d0c1e739b2ad3e999340da91b390f4cf3",
+      "bodyTextPrefix": "FANTASIA MEDIEVAL RPG Fallen Gods O grimório da sua mesa de RPG ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
